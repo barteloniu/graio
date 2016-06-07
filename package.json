@@ -1,0 +1,14 @@
+{
+  "name": "gra.io",
+  "version": "1.0.0",
+  "description": "Simple browser multiplayer game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines":{
+  	"node": "4.4.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
